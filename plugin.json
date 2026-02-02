@@ -7,7 +7,7 @@
     {
       "name": "Cứu Truyện",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "path": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/cuutruyen/plugin.zip",
       "version": 4,
       "source": "https://nettrom.com",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
@@ -18,7 +18,7 @@
     {
       "name": "MangaDex",
       "author": "vBook",
-      "path": "https://raw.githubusercontent.com/thanhtrong123/CuuTruyenExtension/refs/heads/main/mangadex/plugin.zip",
+      "path": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/mangadex/plugin.zip",
       "version": 1,
       "source": "https://mangadex.org",
       "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/mangadex/icon.png",
