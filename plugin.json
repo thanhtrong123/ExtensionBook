@@ -13,7 +13,7 @@
       "icon": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/cuutruyen/icon.png",
       "description": "Đọc truyện trên trang Cứu Truyện",
       "type": "comic",
-      "locale": "vi_VN"
+      "locale": "global"
     },
     {
       "name": "Truyện QQ",
@@ -21,7 +21,7 @@
       "path": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/truyenqq/plugin.zip",
       "version": 21,
       "type": "comic",
-      "locale": "vi_VN",
+      "locale": "global",
       "source": "https://truyenqqgo.com",
       "icon": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/truyenqq/icon.png",
       "description": "Đọc truyện trên trang Truyện QQ"
