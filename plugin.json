@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "author": "vBook",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Cứu Truyện",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/plugin.zip",
+      "version": 4,
+      "source": "https://nettrom.com",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/cuutruyen/icon.png",
+      "description": "Đọc truyện trên trang Cứu Truyện",
+      "type": "comic",
+      "locale": "vi_VN"
+    },
+    {
+      "name": "MangaDex",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/thanhtrong123/CuuTruyenExtension/refs/heads/main/mangadex/plugin.zip",
+      "version": 1,
+      "source": "https://mangadex.org",
+      "icon": "https://raw.githubusercontent.com/Darkrai9x/vbook-extensions/master/mangadex/icon.png",
+      "description": "Đọc truyện trên trang mangadex.org",
+      "type": "comic",
+      "locale": "global"
+    }
+  ]
+}
