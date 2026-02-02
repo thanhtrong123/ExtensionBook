@@ -16,6 +16,17 @@
       "locale": "vi_VN"
     },
     {
+      "name": "Truyện QQ",
+      "author": "vBook",
+      "path": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/truyenqq/plugin.zip",
+      "version": 21,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenqqgo.com",
+      "icon": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/truyenqq/icon.png",
+      "description": "Đọc truyện trên trang Truyện QQ"
+    },
+    {
       "name": "MangaDex",
       "author": "vBook",
       "path": "https://raw.githubusercontent.com/thanhtrong123/ExtensionBook/refs/heads/main/mangadex/plugin.zip",
